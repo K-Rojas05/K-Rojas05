@@ -2,6 +2,8 @@
 
 <p>Olá! Sou uma pessoa curiosa e dedicada, em constante aprendizado na área de programação. Meu objetivo é entender profundamente os fundamentos da lógica de programação, estruturar bem meus projetos e evoluir com consistência. Estou buscando apronfundar meus conhecimentos para as linguagens que eu já estudo, mas sempre disposto a me aventurar por novas linguagens. Nos próximos dias, pretendo iniciar projetos que envolvam automação de tarefas, sistemas simples mas que tragam grande valor a tarefa do dia a dia e desenvolvimento de pequenos jogos. Estou aqui para aprender, compartilhar e crescer com cada linha de código.</p>
 
+<img align="right" alt="" height="190px" src="study.gif">
+
 <h3>Linguagens Conquistadas</h3>
 
 <div style="display: inline_block"><br>
@@ -30,8 +32,6 @@
   <a href = "mailto:kauerdev2025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaue-rojas-rodrigues-544793262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a>
 </div>
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K-Rojas05/K-Rojas05/output/github-contribution-grid-snake-dark.svg">
