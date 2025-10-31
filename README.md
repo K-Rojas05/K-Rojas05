@@ -26,4 +26,4 @@
   <a href="www.linkedin.com/in/kaue-rojas-rodrigues-544793262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation])https://github.com/K-Rojas05/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/K-Rojas05/snk/raw/output/github-contribution-grid-snake.svg)
