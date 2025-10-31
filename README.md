@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=K-Rojas05&hide=contribs,prs">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=K-Rojas05&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=K-Rojas05&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Rojas05&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
