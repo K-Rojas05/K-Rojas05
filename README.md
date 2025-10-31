@@ -1,4 +1,4 @@
-![Welcome](https://readme-typing-svg.herokuapp.com?font=default&size=32&pause=1000&color=4ea0f3&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Kaue+Rojas!;Seja+bem-vindo+ao+meu+GitHub!)
+![Welcome](https://readme-typing-svg.herokuapp.com?font=default&size=28&pause=1000&color=4ea0f3&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Kaue+Rojas!;Seja+bem-vindo+ao+meu+GitHub!)
 
 <p>Olá! Sou uma pessoa curiosa e dedicada, em constante aprendizado na área de programação. Meu objetivo é entender profundamente os fundamentos da lógica de programação, estruturar bem meus projetos e evoluir com consistência. Estou buscando apronfundar meus conhecimentos para as linguagens que eu já estudo, mas sempre disposto a me aventurar por novas linguagens. Nos próximos dias, pretendo iniciar projetos que envolvam automação de tarefas, sistemas simples mas que tragam grande valor a tarefa do dia a dia e desenvolvimento de pequenos jogos. Estou aqui para aprender, compartilhar e crescer com cada linha de código.</p>
 
